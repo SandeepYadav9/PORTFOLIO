@@ -3,7 +3,7 @@ import "./Portfolio.css";
 const Portfolio = ({ data }) => {
   if (data) {
     var projects = data.projects.map(function (projects) {
-      var projectImage = "images/portfolio/" + projects.image;
+      var projectImage = "assests/" + projects.image;
       return (
         <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap">

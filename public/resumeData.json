@@ -3,7 +3,7 @@
     "name": "Sandeep Yadav",
     "occupation": "ReactJs Devloper",
     "description": "I eat, sleep, breathe, feel and thinking  React",
-    "image": "profilepic.jpg",
+    "image": "Profile.jpg",
     "bio": "Hi there! My name is Sandeep Yadav! You might  know me as  React Devloper. I've been coding for over 1 years now. As a Full Stack developer . I belive Time-Management. Critical Thinking and Complex Problem Solving skils. I strongly believe in Team-Work. Ability to work under pressure",
     "contactmessage": "Get in touch with me to be a part of the Self Employ !",
     "email": "sandeepuit10@gmail.com/",
@@ -89,26 +89,26 @@
       {
         "title": "Hotal-Booking (HTML, CSS,JS)",
         "category": " Restorent",
-        "image": "",
-        "url": ""
+        "image": "hotals.png",
+        "url": "https://sandeepyadav9.github.io/HOTAL-BOOKING/"
       },
       {
-        "title": "Flight-Reservation-System ()",
-        "category": "",
-        "image": "",
-        "url": "https://git.io/J9Y73"
+        "title": "Friends Name Lists",
+        "category": "Table",
+        "image": "friends.png",
+        "url": "https://sandeepyadav9.github.io/FRIENDS-NAME-TABLE/"
       },
        {
         "title": "Resume()",
-        "category": "",
-        "image": "images/portfolio/portfolio.png",
+        "category": "About me",
+        "image": "resums.png",
         "url": ""
       },
       {
         "title": "Food-order()",
         "category": "",
-        "image": "images/portfolio/portfolio.png",
-        "url": "https://sandeepyadav9.github.io/FOOD-ORDER/"
+        "image": "foods.png",
+        "url": "https://sandeepyadav9.github.io/FOOD-BOOKING/"
       }
     ]
   },
